@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CMendham
-- 👀 I’m interested in Business Analytics and Consulting, Machine Learning and Artifiical Intelligence, and Video Game Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in using and understanding code well enough to provide solutions and recommendations to solve problems for organizations.
+- 🌱 I’m currently learning Fundamentals, Command Line, HTML, CSS, JS, Python, etc.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Reach me on twitter @mendhamcj
 
